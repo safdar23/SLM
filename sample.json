@@ -1,0 +1,12 @@
+{
+    "input_data": {
+        "input_string": [
+            "what is the highest place in the world outisde USA"
+        ],
+        "parameters": {
+            "max_new_tokens": 100,
+            "do_sample": true,
+            "return_full_text": false
+        }
+    }
+}
